@@ -32,4 +32,4 @@ However this would only last as long as your current shell session. A better opt
 
 ![A selection of permanent aliases](./images//zshrc.png 'A selection of permanent aliases')
 
-Have a go at making some a your own!
+Have a go at making some of your own!
