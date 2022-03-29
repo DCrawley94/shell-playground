@@ -33,5 +33,9 @@ Once declared a variable can be accessed by prefixing it's name with a `$`.
 name="Duncan"
 
 echo $name
-# Prints Duncan to the terminal when run
+# Prints 'Duncan' to the terminal when run
 ```
+
+---
+
+Have a go at creating your own script in the `print-name` file.
