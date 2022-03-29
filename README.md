@@ -25,14 +25,16 @@ Once you've tackled all the tasks I encourage you to make up your own scripts, e
 
 ## Structure
 
+Each of the following sections (except the warmup section) will have an exercise for you to complete in the supplied file.
+
 - **Warmup:** [Aliases](./warmup/README.md)
 - **Part 1:** [Creating and Running a Shell Script](./part-1/README.md)
 - **Part 2:** [Using Shell Variables](./part-2/README.md)
 - **Part 3:** [Conditional Execution](./part-3/README.md)
+- **Part 4:** [Looping in the Shell](./part-4/README.md)
 
 Coming Soon:
 
-- **Part 4:** Shell Iteration
 - **Part 5:** Input
 - **Part 6:** String Manipulation
 - **Part 7:** Maths 🤯
