@@ -52,6 +52,8 @@ module.exports = printName(name);
 
 Now we need to make it executable, using the old warhorse, `package.json`!
 
+Read more about package.json [here](https://docs.npmjs.com/cli/v7/configuring-npm/package-json)
+
 This is done simply by adding a "bin" property to our `package.json`:
 
 ```json
