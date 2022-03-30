@@ -76,4 +76,9 @@ printName sam
 // Hello, sam!
 ```
 
-Think about other things we could use this for... Creating projects, showing us a dad joke or our choice of pokemon, A DICE ROLLER...?!
+Think about other things we could use this for...
+
+Creating projects - https://github.com/northcoders/fun-callback-heaven
+Showing us a dad joke - https://rapidapi.com/KegenGuyll/api/dad-jokes/ (needs a key etc...)
+Our choice of pokemon - https://pokeapi.co/
+A DICE ROLLER...?!
