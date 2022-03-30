@@ -2,7 +2,7 @@
 
 This repo is intended to be a resource for Northcoders mentors interested in shell scripting. It's divided into sections each covering some of the basics.
 
-Once you've tackled all the tasks I encourage you to make up your own scripts, especially if you find yourself regularly doing repetative tasks that could be automated 🤖
+Once you've tackled all the tasks I encourage you to make up your own scripts, especially if you find yourself regularly doing repetitive tasks that could be automated 🤖
 
 ---
 
@@ -21,6 +21,8 @@ Once you've tackled all the tasks I encourage you to make up your own scripts, e
 
 - [Bash scripting cheatsheet](https://devhints.io/bash) : Exactly what it says on the tin.
 
+- [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html) : Guidance for best practices when shell scripting - dense reading but useful if you want to check something specific.
+
 ---
 
 ## Structure
@@ -32,9 +34,9 @@ Each of the following sections (except the warmup section) will have an exercise
 - **Part 2:** [Using Shell Variables](./part-2/README.md)
 - **Part 3:** [Conditional Execution](./part-3/README.md)
 - **Part 4:** [Looping in the Shell](./part-4/README.md)
+- **Part 5:** [String Manipulation](./part-5/README.md)
 
 Coming Soon:
 
-- **Part 5:** Input
-- **Part 6:** String Manipulation
+- **Part 6:** Input
 - **Part 7:** Maths 🤯
