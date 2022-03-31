@@ -1,6 +1,6 @@
 # Creating a package
 
-So you've got a great idea for something ins JavaScript (or TypeScript..!) that will revolutionise your working process. This could be something that will install a project (see: section 2 of the [fun-callback-heaven](https://github.com/northcoders/fun-callback-heaven) sprint), or something more useful like serving you a dad joke or your Pokemon of choice.
+So you've got a great idea for something in JavaScript (or TypeScript..!) that will revolutionise your working process. This could be something that will install a project (see: section 2 of the [fun-callback-heaven](https://github.com/northcoders/fun-callback-heaven) sprint), or something more useful like serving you a dad joke or your Pokemon of choice.
 
 To create and install something globally on your machine, first create your project and make a function that does something.
 
@@ -73,7 +73,7 @@ Now run it in your terminal!
 ```bash
 printName sam
 
-// Hello, sam!
+# Hello, sam!
 ```
 
 Think about other things we could use this for...
