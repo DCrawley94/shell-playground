@@ -8,7 +8,7 @@ Admittedly just having to type `cd` is already saving a lot of time. However if 
 
 ## What is an alias
 
-An alias could be described as being a method of overiding Bash commands with new ones. They allow you to customize your terminal experience to suit your needs.
+An alias could be described as being a method of overriding Bash commands with new ones. They allow you to customize your terminal experience to suit your needs.
 
 Here's an example. Instead of manually typing out a long `cd` command or repeatedly changing directory until we get to the right place we can define a sort of nickname for a shortcut. This way instead of typing it all out we can just type `reviews` and it'll take us right to where we want to go.
 

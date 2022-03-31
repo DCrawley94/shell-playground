@@ -8,7 +8,7 @@ Variable declaration in the shell is quite simple and is done like so:
 hello="world"
 ```
 
-By convention environment variables such as USER, PATH, HOME etc. are capitalized. Any other variable names should be lowercase. The convention will help you avoid accidentally overwriting environmental and internal variables.
+By convention environment variables such as USER, PATH, HOME etc. are capitalized. Any other variable names should be lowercase. This convention will help you avoid accidentally overwriting environmental and internal variables.
 
 > 💡 Notice that there is no space before or after the `=`. This is due to the way the Bourne shell (and it's variants) interpret commands.
 

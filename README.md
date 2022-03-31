@@ -4,6 +4,8 @@ This repo is intended to be a resource for Northcoders mentors interested in she
 
 Once you've tackled all the tasks I encourage you to make up your own scripts, especially if you find yourself regularly doing repetitive tasks that could be automated 🤖
 
+Also big thanks to Sam Parry for adding a section on how to create shell scripts with JavaScript! Have a look at the `creating-scripts-with-js`.
+
 ---
 
 **_First thing's first here's a few tools I REALLY recommend using:_**

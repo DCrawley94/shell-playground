@@ -55,7 +55,7 @@ echo $slice_second_half
 
 Finally we get to `regex`. There are many ways to use regex in a shell script.
 
-You could just use it for conditional checks like so:
+One way of doing so is to use the re-match operator as demonstrated below.
 
 ```sh
 haystack=hayhayhayhayneedlehayhayhayhay
@@ -73,9 +73,9 @@ You can see just how powerful it is when it is combined with other commands:
 
 ![Using Regex with other Commands](./images/Screenshot%202022-03-30%20at%2016.23.47.png)
 
-Bit of a contrived example but here you can see the first example where I've used `ls` to view the contents of this repo.
+Bit of a contrived example but here you can see the first example where `ls` is used to view the contents of this repo.
 
-In the second example however I have piped the `stdout` from ls into the `grep` command with uses a regex. In simple terms I have listed all files that start with a 'p'.
+In the second example however the `stdout` from `ls` is piped into the `grep` command which uses a regex to filter it down.
 
 `Piping` and `stdin`/`stdout`/`stderr` will be covered later but feel free to do your own research!
 
