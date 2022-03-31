@@ -14,8 +14,8 @@ One final thing, in order to run the file you must use the change mode command (
 chmod u+x YOUR_FILE_HERE
 ```
 
----
+The above command will make a file executable (`+x`) for your user (`u`). You could change it back by using `-x`
 
-## Exercise 1
+## Exercise
 
 - Create a script in the `hello-world` file that will print the message "Hello World!" and run it. A shell script can be run by typing the file path into your terminal.
