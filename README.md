@@ -37,8 +37,12 @@ Each of the following sections (except the warmup section) will have an exercise
 - **Part 3:** [Conditional Execution](./part-3/README.md)
 - **Part 4:** [Looping in the Shell](./part-4/README.md)
 - **Part 5:** [String Manipulation](./part-5/README.md)
+- **Part 6:** [Maths](./part-6/README.md)
 
 Coming Soon:
 
-- **Part 6:** Input
-- **Part 7:** Maths 🤯
+- **Part 7:** Functions
+- STDIN / STDOUT / STDERR
+- Useful commands
+- Piping
+- Debugging
