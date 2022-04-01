@@ -38,10 +38,10 @@ Each of the following sections (except the warmup section) will have an exercise
 - **Part 4:** [Looping in the Shell](./part-4/README.md)
 - **Part 5:** [String Manipulation](./part-5/README.md)
 - **Part 6:** [Maths](./part-6/README.md)
+- **Part 7:** [Functions](./part-7/README.md)
 
 Coming Soon:
 
-- **Part 7:** Functions
 - STDIN / STDOUT / STDERR
 - Useful commands
 - Piping
