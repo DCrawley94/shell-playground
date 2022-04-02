@@ -44,7 +44,7 @@ Personally I would recommend using the `(( maths...))` syntax. The double parent
 ```sh
 x=5
 
-if (( x = 5 )); then
+if (( x == 5 )); then
   echo "This number is the number 5"
 fi
 ```
